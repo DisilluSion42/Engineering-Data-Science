@@ -1,2 +1,2 @@
 # Engineering-Data-Science
-This repository includes the primary projects of mine during learning Statistics and Data Science for Engineers.
+This repository summarizes my projects during learning Statistics and Data Science for Engineers, including 
